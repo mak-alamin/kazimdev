@@ -1,4 +1,4 @@
-## Hi there 👋, I'm Md. Abul Kazim Alamin. You can call me "Kazim" simply.
+## Hi there 👋, I'm Md. Abul Kazim Alamin. You can call me "Kazim".
 ### I'm a full stack web developer from Dhaka, Bangladesh.
 
 Currently I'm working online focusing on backend development for clients and companies worldwide. 
