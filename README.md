@@ -10,17 +10,17 @@ I'm dedicated to mastering the ever-evolving world of software development and a
 ✔ JavaScript / TypeScript / React.js / Next.js <br>  
 ✔ MySQL / MongoDB / PostgreSQL <br>  
 ✔ HTML / CSS / Tailwind <br>  
-✔ MERN Stack Development <br>  
+✔ MERN Stack Development <br><br>
 
 🔭 My core expertise is WordPress plugin and theme development, which is how I make a living. <br>  
-🌱 I also have solid experience with Laravel, React.js, MySQL, PostgreSQL, and custom web development. <br>  
+🌱 I also have solid experience with Laravel, React.js, MySQL, PostgreSQL, and custom web development. <br><br>  
 
 💬 Ask me about your project. <br>
 📫 Email me: hello.kazimdev@gmail.com <br>
-💬 DM me at WhatsApp: +880 1739 530 410
+💬 DM me at WhatsApp: +880 1739 530 410 <br> <br>
 
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/mak-alamin)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/mak-alamin/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/mak_alamin)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg' alt='stackoverflow' height='40'>](https://stackoverflow.com/users/mak-alamin)  
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/kazimdev)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/kazimdev/) 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mak-alamin)](https://github.com/anuraghazra/github-readme-stats)
 
