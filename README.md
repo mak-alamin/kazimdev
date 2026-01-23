@@ -1,22 +1,22 @@
-## Hi there 👋, I'm Kazim
-### I'm a professional web & Backend developer.
+## Hi there 👋, I'm Kazim  
+### I'm a professional Web & Backend Developer.
 
-Currently I'm working online focusing on backend development for clients and companies worldwide. 
-I'm an enthusiastic developer with a keen focus on modern web technologies and a strong interest in the latest AI innovations. 
-Dedicated to mastering the ever-evolving realm of software development and looking for great opportunities.
+Currently, I work in web development projects focusing on backend development for clients and companies worldwide.  
+I'm an enthusiastic developer with a strong focus on modern web technologies and a growing interest in the latest AI innovations.  
+I'm dedicated to mastering the ever-evolving world of software development and always open to great opportunities.
 
 ### Skills & Experience:
-✔ PHP / Laravel / WordPress  <br>
-✔ JavaScript / TypeScript / React.JS / Next.JS <br>
-✔ MySQL / MongoDB / PostgreSQL <br>
-✔ HTML / CSS / Tailwind <br>
-✔ MERN Stack Development <br>
+✔ PHP / Laravel / WordPress <br>  
+✔ JavaScript / TypeScript / React.js / Next.js <br>  
+✔ MySQL / MongoDB / PostgreSQL <br>  
+✔ HTML / CSS / Tailwind <br>  
+✔ MERN Stack Development <br>  
 
-🔭 I’m currently working on Laravel & MERN stack projects. <br>
-🌱 I also have great expertise on WordPress Plugins and Themes development. <br>
+🔭 My core expertise is WordPress plugin and theme development, which is how I make a living. <br>  
+🌱 I also have solid experience with Laravel, React.js, MySQL, PostgreSQL, and custom web development. <br>  
 
 💬 Ask me about your project. <br>
-📫 Email me: makalamin012@gmail.com <br>
+📫 Email me: hello.kazimdev@gmail.com <br>
 💬 DM me at WhatsApp: +880 1739 530 410
 
 
