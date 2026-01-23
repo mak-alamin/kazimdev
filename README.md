@@ -1,5 +1,5 @@
-## Hi there 👋, I'm Md. Abul Kazim Alamin. You can call me "Kazim".
-### I'm a full stack web developer from Dhaka, Bangladesh.
+## Hi there 👋, I'm Kazim
+### I'm a professional web & Backend developer.
 
 Currently I'm working online focusing on backend development for clients and companies worldwide. 
 I'm an enthusiastic developer with a keen focus on modern web technologies and a strong interest in the latest AI innovations. 
