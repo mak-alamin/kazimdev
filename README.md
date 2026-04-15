@@ -16,7 +16,7 @@ I'm dedicated to mastering the ever-evolving world of software development and a
 🌱 I also have solid experience with Laravel, React.js, MySQL, PostgreSQL, and custom web development. <br><br>  
 
 💬 Ask me about your project. <br>
-📫 Email me: hello.kazimdev@gmail.com <br>
+📫 Email me: makalamin012@gmail.com <br>
 💬 DM me at WhatsApp: +880 1739 530 410 <br> <br>
 
 
